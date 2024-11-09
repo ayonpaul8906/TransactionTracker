@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Transaction Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Bank Transaction Tracker</h1>
+    <form id="transactionForm">
+        <label for="date">Date:</label>
+        <input type="date" id="date" required>
+
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" step="0.01" required>
+
+        <label for="transactionType">Transaction Type:</label>
+        <select id="transactionType" required>
+            <option value="credit">Credit</option>
+            <option value="debit">Debit</option>
+        </select>
+
+        <button type="submit">Add Transaction</button>
+    </form>
+
+    <h2 id="totalBalance">Total Balance: $0.00</h2>
+    <table id="balanceTable">
+        <tr>
+            <th>Date</th>
+            <th>Amount</th>
+            <th>Type</th>
+            <th>Action</th>
+        </tr>
+    </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
