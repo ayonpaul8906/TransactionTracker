@@ -12,7 +12,7 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 - **🔄Real-Time Balance Updates:** Automatically calculates and displays the updated balance after every transaction.
 - **📱Responsive Design:** Optimized for desktops, tablets, and smartphones to ensure a seamless experience across devices.
 - **🎨Interactive UI:** Clean and simple interface for easy navigation and operation.
-- 
+  
 ## Tech Used
 
 **HTML5:** For structuring the website.
@@ -32,8 +32,8 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 
 1.  Navigate to the website [Transaction Tracker](https://ayonpaul8906.github.io/TransactionTracker/).
 2.  Enter your transaction details in the form provided.
-- Choose the type of transaction (Credit or Debit).
-- Add the amount and submit.
+    - Choose the type of transaction (Credit or Debit).
+    - Add the amount and submit.
 3.  Watch your balance update instantly.
 4. Continue adding or modifying transactions to stay on top of your finances.
 
