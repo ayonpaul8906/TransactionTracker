@@ -21,6 +21,13 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 
 **JavaScript:** For dynamic behavior, including real-time updates and interactivity.
 
+## 📸 Screenshots
+### Homepage 🏠
+![Home Page](https://i.postimg.cc/k5p0Cmr1/Tracker.png)
+
+### Add Transaction Form 🧾
+![Home Page](https://i.postimg.cc/2ypgq7Sn/Tracker2.png)
+
 ## How to Use
 
 - Navigate to the website.
@@ -32,11 +39,15 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 
 Access the website here: [Transaction Tracker](https://ayonpaul8906.github.io/TransactionTracker/)
 
+## 🤝 Contributing
 
-## 📸 Screenshots
-### Homepage 🏠
-![Home Page](https://i.postimg.cc/13JDj7G3/Tracker.png)
+Contributions are always welcome! Feel free to fork this repository and submit a pull request.
 
-### Add Transaction Form 🧾
-![Home Page](https://i.postimg.cc/MpWytJjL/Tracker2.png)
+- Submit issues for any bugs or feature requests.
+- Review the code structure for areas to optimize or improve.
+
+## 🔗 Connect with Me
+- [GitHub](https://github.com/ayonpaul8906)
+- [LinkedIn](https://www.linkedin.com/in/ayon2407s/)
+- [Email](ayonpaul8906@gmail.com)
 
