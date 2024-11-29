@@ -32,12 +32,11 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 
 Access the website here: [Transaction Tracker](https://ayonpaul8906.github.io/TransactionTracker/)
 
-## Screenshots
 
-### Homepage
+## 📸 Screenshots
+### Homepage 🏠
+![Home Page](https://i.postimg.cc/13JDj7G3/Tracker.png)
 
-![Home Page Screenshot]([https://ibb.co/b20zZ8B])
-
-### Add Transaction Form
-![Transaction Screenshot]([https://ibb.co/p1XqMvx])
+### Add Transaction Form 🧾
+![Home Page](https://i.postimg.cc/MpWytJjL/Tracker2.png)
 
