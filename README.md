@@ -2,7 +2,7 @@
 
 "Your simple and smart solution for managing money effortlessly."
 
-## Overview
+## 📖 Overview
 
 Transaction Tracker is a web-based application designed to simplify personal financial management. This project caters to individuals seeking an easy and efficient way to keep track of their daily financial transactions without the complexity of traditional accounting software. The website allows users to input transaction details for both credits and debits while displaying the updated balance dynamically. The focus is on accuracy, speed, and user-friendly operation, making it a perfect tool for managing personal or small business finances.
 
@@ -31,3 +31,13 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 ## Live Demo
 
 Access the website here: [Transaction Tracker](https://ayonpaul8906.github.io/TransactionTracker/)
+
+## Screenshots
+
+### Homepage
+
+![Home Page Screenshot]([https://ibb.co/b20zZ8B])
+
+### Add Transaction Form
+![Transaction Screenshot]([https://ibb.co/p1XqMvx])
+
