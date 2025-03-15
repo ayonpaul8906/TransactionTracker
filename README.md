@@ -34,6 +34,7 @@ Transaction Tracker is a web-based application designed to simplify personal fin
 2.  Enter your transaction details in the form provided.
     - Choose the type of transaction (Credit or Debit).
     - Add the amount and submit.
+3.  Watch your balance update instantly.
 4. Continue adding or modifying transactions to stay on top of your finances.
 
 ## Live Demo
